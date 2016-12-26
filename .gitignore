@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+repository/stc2-repos-id-cmnt
+
+repository/stc2-repos-id-post
