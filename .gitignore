@@ -91,3 +91,7 @@ ENV/
 repository/stc2-repos-id-cmnt
 
 repository/stc2-repos-id-post
+
+data/repository/stc2-repos-id-cmnt
+
+data/repository/stc2-repos-id-post
