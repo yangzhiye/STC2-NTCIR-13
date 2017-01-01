@@ -4,6 +4,8 @@ import thulac
 import re
 
 
+#---------------------------------ues re and thulac cut to process data------------------------------
+
 def get_new_filename(filepath):
     if filepath.split('-')[-1] == "post":
         return "./data/repository/data_clean_post.txt"
@@ -44,5 +46,9 @@ def get_clean_data():
         cut_word(filepath)
 
 
+#-----------------------------------------------------------------------------------------------------
+
+
+
 if __name__ == "__main__":
-   get_clean_data()
+   #get_clean_data()
