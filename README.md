@@ -6,7 +6,7 @@
 
 关键正则表达式如下:
 
-!()[https://github.com/yangzhiye/ImageCache/blob/master/stc2/stc2.png?raw=true]
+![](https://github.com/yangzhiye/ImageCache/blob/master/stc2/stc2.png?raw=true)
 
 ###(2).中文分词
 
