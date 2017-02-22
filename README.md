@@ -8,6 +8,8 @@
 
 ![](https://github.com/yangzhiye/ImageCache/blob/master/stc2/stc2.png?raw=true)
 
+![](https://github.com/yangzhiye/ImageCache/blob/master/stc2/stc1.png?raw=true)
+
 ###(2).中文分词
 
 通过阅读我们PaperWeekly老大张俊老师曾发布在公众号的文章对LTP、NLPIR、THULAC、jieba四种当前流行的中文分词开源库的比较，本项目选择了清华大学的THULAC分词。
